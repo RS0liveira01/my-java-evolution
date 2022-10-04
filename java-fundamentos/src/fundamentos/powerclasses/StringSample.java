@@ -2,6 +2,7 @@ package fundamentos.powerclasses;
 
 public class StringSample {
     public static void main(String[] args) {
+
         /**
          * A classe String é utilizada para respresentar conteudos alfanumericos, exemplo:
          * JOSE, maria, NIJ-3323, 123@master
